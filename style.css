@@ -1,0 +1,19 @@
+.navbar{
+    background-color: orange;
+}
+.navbar li{
+display: flex;
+list-style: none;
+float:left;
+margin-right: 20px;
+
+
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+    padding-right:600px;
+}
+.navbar ul{
+    overflow: auto;
+}
